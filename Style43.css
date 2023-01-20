@@ -1,0 +1,19 @@
+img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+    object-position: top left;
+
+}
+div{
+    height: 400px;
+    width: 250px;
+}
+#img{
+    width: 100%;
+}
+.mask{
+    -webkit-mask-image:url(Image/w3logo.png);
+    mask-image: url((Image/w3logo.png));
+    -webkit-mask-repeat:no-repeat;
+}
