@@ -13,7 +13,7 @@ div{
     width: 100%;
 }
 .mask{
-    -webkit-mask-image:url(Image/w3logo.png);
-    mask-image: url((Image/w3logo.png));
+    -webkit-mask-image:url(w3logo.png);
+    mask-image: url((w3logo.png));
     -webkit-mask-repeat:no-repeat;
 }
